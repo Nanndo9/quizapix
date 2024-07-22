@@ -1,4 +1,4 @@
-package com.jabu.quizapix.controller;
+package com.jabu.quizapix.controllers;
 
 import com.jabu.quizapix.dto.AlternativeDto;
 import com.jabu.quizapix.dto.QuestionDto;
